@@ -11,6 +11,11 @@ module.exports = {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    css: [
+      // { src: '~assets/main.scss', lang: 'scss' }
+      // { src: 'bulma/bulma.sass', lang: 'sass' }
+      { src: 'bulma/css/bulma.css' }
     ]
   },
   /*

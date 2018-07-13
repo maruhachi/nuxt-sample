@@ -1,10 +1,23 @@
 <template>
+<section>
   <div class="VueToNuxtLogo">
     <div class="Triangle Triangle--two"/>
     <div class="Triangle Triangle--one"/>
     <div class="Triangle Triangle--three"/>
     <div class="Triangle Triangle--four"/>
+
+     
   </div>
+   <article class="media">
+          <figure class="media-left">
+             <p class="image is-48x48">
+                <img src="http://placehold.it/96x96">
+             </p>
+          </figure>
+      </article>
+      <a href="#" class="button is-primary is-large">HELLO!</a>
+</section>
+  
 </template>
 
 <style>
