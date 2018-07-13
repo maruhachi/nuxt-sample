@@ -1,15 +1,15 @@
 # nuxt_sample
 
-> Nuxt.js project
+> Nuxt.js suburi project
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-$ npm install # Or yarn install
+$ yarn
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ yarn dev
 
 # build for production and launch server
 $ npm run build
@@ -19,4 +19,10 @@ $ npm start
 $ npm run generate
 ```
 
+## Reference sites
+
+* Vue.js製フレームワークNuxt.jsではじめるUniversalアプリケーション開発
+  * [https://html5experts.jp/potato4d/24346/](https://html5experts.jp/potato4d/24346/)
+* Nuxt.jsにBulmaを導入して変数を使ったカスタマイズを行う
+  * [https://qiita.com/mnmemo/items/5eb4fb8cbfe17670fd36](https://qiita.com/mnmemo/items/5eb4fb8cbfe17670fd36)
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
